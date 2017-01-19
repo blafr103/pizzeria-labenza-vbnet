@@ -1,0 +1,6 @@
+# Build output and Visual Studio settings, recreated on every build
+bin/
+obj/
+.vs/
+*.suo
+*.user
