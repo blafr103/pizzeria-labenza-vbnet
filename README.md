@@ -1,6 +1,6 @@
 # Pizzeria LaBenza (VB.NET)
 
-A pizza ordering app written by Benoît Lafrance in Visual Basic .NET (Windows Forms, Visual Studio 2015, .NET Framework 4.5.2) for a high school computer science class in January 2017.
+A pizza ordering app I wrote in Visual Basic .NET (Windows Forms, Visual Studio 2015, .NET Framework 4.5.2) for my next programming course in high school, in January 2017. After the Turing projects, which run as one main loop, this one is event-driven: each button, checkbox and screen reacts through its own event handler.
 
 ## How it works
 
@@ -9,6 +9,17 @@ A pizza ordering app written by Benoît Lafrance in Visual Basic .NET (Windows F
 - **Shopping Cart** shows the order number and the total with 13% tax.
 - **Place Order** opens a confirmation screen that asks for your street address, city and postal code.
 - **New Order** resets the order screen.
+
+## The series
+
+The three Turing projects come from my first programming course, with Turing as my first language. Each one is built around what the course had most recently introduced. Pizzeria LaBenza is from my next programming course, in Visual Basic .NET.
+
+| # | Project | When | What it covers |
+| --- | --- | --- | --- |
+| 1 | [Lotto 6/49](https://github.com/blafr103/lotto-649-turing) | September 2016 | Text console: input and output, arrays, nested loops, input validation, random draws without repeats |
+| 2 | [Duck Hunt](https://github.com/blafr103/duck-hunt-turing) | November 2016 | Graphics: images, mouse input, double-buffered animation, hit detection, GUI buttons, background music, concurrent processes |
+| 3 | [Minesweeper](https://github.com/blafr103/minesweeper-turing) | December 2016, final project | Record types, a 2D array of records, functions, a running timer, right-click input, a full win, lose and play-again loop |
+| 4 | **Pizzeria LaBenza** (this repo) | January 2017, VB.NET | Event-driven Windows Forms: controls and their event handlers, three screens, order details shared between them |
 
 ## Running it
 
